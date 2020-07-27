@@ -1,0 +1,22 @@
+{
+  "name": "cypressdemo",
+  "version": "1.0.0",
+  "description": "Sample midtrans demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "node_modules\\.bin\\cypress run --headed --spec 'cypress\\integration\\examples\\homepage.spec.js' "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NileshPawade/Complete-Cypress.git"
+  },
+  "author": "Nilesh Pawade",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NileshPawade/Complete-Cypress/issues"
+  },
+  "homepage": "https://github.com/NileshPawade/Complete-Cypress#readme",
+  "dependencies": {
+    "cypress": "^4.11.0"
+  }
+}

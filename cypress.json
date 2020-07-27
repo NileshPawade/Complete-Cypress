@@ -1,0 +1,5 @@
+{
+  "projectId": "pg2x3b",
+  "defaultCommandTimeout":20000,
+  "pageLoadTimeout": 60000
+}
